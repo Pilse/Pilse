@@ -17,23 +17,26 @@ Here are some ideas to get you started:
 -->
 
 <h4> 
-  🌱 Interested in
+  🌱 Tech Stack
 </h4>
 <br/>
 <div> 
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=rounded-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=rounded-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-264de4?&style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 <div> 
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=rounded-square&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=rounded-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=rounded-square&logo=Vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+</div>
+<div>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
 <div> 
-  <img src="https://img.shields.io/badge/Express-000000?style=rounded-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 </div>
-<div> 
-  <img src="https://img.shields.io/badge/mongoDB-47A248?style=rounded-square&logo=mongoDB&logoColor=white"/>
+<div>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />  
 </div>
 
 <br/>
